@@ -1,7 +1,7 @@
 
 <img width="2680" height="1000" alt="canva png" src="https://github.com/user-attachments/assets/0d23f800-8965-436a-bc6d-cfb5529db4d7" />
 <h1 align="center">Hi 👋, I'm Ankur Maurya</h1>
-<h3 align="center">A passionate frontend developer from bareilly</h3>
+<h3 align="center">A DATA ANAYLISIS from bareilly</h3>
 <img align="right" alt="coding" width="400" scr="<img width="224" height="148" alt="image" src="https://github.com/user-attachments/assets/c9f8d332-3d16-425d-94dd-01107186fe59" />
 "
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur-maurya-72&label=Profile%20views&color=0e75b6&style=flat" alt="ankur-maurya-72" /> </p>
